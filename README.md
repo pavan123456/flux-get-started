@@ -1,8 +1,6 @@
 # flux-get-started
 
-# This is a test site
-
-## this is a next test site
+# Completed Site
 
 [![CircleCI](https://circleci.com/gh/fluxcd/flux-get-started.svg?style=svg)](https://circleci.com/gh/fluxcd/flux-get-started)
 
